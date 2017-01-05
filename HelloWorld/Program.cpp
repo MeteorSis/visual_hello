@@ -10,5 +10,6 @@ int main(void)
 	cout << "Earth is mine" << endl;
 	cout << "World on GitHub" << endl;
 	cout << "Earth on Local repository" << endl;
+	cout << "Luna on GitHub" << endl;
 	return 0;
 }
