@@ -8,5 +8,6 @@ int main(void)
 	cout << "World is mine" << endl;
 	cout << "Luna is mine" << endl;
 	cout << "Earth is mine" << endl;
+	cout << "Earth on Local repository" << endl;
 	return 0;
 }
